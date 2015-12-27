@@ -1,0 +1,5 @@
+data/poche.sqlite
+image/nginx-wallabag
+webserver/ssl.crt
+webserver/ssl.key
+salt
